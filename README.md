@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Temples-Dev
-- 👀 I’m interested in ... Java,Python,C, JavaScript
+- 👀 I’m interested in ... Python,C, JavaScript, HTML, CSS, SASS, BOOTSTRAP, REACT, NEXTJS
 - 🌱 I’m currently learning ... Bash
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
