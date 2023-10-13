@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Temples-Dev
-- 👀 I’m interested in ... Python,C, JavaScript, HTML, CSS, SASS, BOOTSTRAP, REACT, NEXTJS
-- 🌱 I’m currently learning ... Bash
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 👀 I’m interested in Mobile App Development
+- 🌱 I’m currently learning ... Kotlin
+- 💞️ I’m looking to collaborate on various android projects
+- 📫 How to reach me ... twitter @temples_dev
 
 <!---
 Temples-Dev/Temples-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
