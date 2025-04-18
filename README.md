@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Temples-Dev
 - 👀 I’m Fullstack Developer - JS/TS mostly
 - 🌱 I’m a life long learner and loves to teach.
-- I am also the founder of [ShelllabsHQ](shelllabshq.org) 
+- I am also the founder of [ShelllabsHQ](https://www.shelllabshq.org) 
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me ... twitter @temples_dev
 
