@@ -1,6 +1,6 @@
 ### Hi, I'm @Temples-Dev 👋
 
-I'm a full-stack developer (JS/TS mostly), a lifelong learner who loves to teach, and the founder of [ShelllabsHQ](https://www.shelllabsHQ.org) and [Opensource Ghana](https://github.com/opensourceghana).
+I'm a full-stack developer, a lifelong learner who loves to teach, and the founder of [ShelllabsHQ](https://www.shelllabsHQ.org) and [Opensource Ghana](https://github.com/opensourceghana).
 
 My deepest work right now is **systems programming in Zig**: a research operating system built from first principles (private repo — write-ups on request), a container runtime, a ground-up Git reimplementation, and an experimental compiler.
 
